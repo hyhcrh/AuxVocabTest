@@ -1,0 +1,702 @@
+词汇6000 测试1					词汇6000 测试2			
+								
+1	transaction	n.	交易		1	heir	n.	继承人，后裔
+2	misery	n.	悲惨，不幸		2	tow	v.	拖引，牵引
+3	hinge	n.	（门等的）铰链，枢纽		3	community	n.	社区，团体
+4	imperial	a.	帝王的；威严的，至高无上的		4	flush	v.	冲洗，奔涌/（使脸）发红
+5	gorgeous	a.	绚丽的，灿烂的		5	quest	n.	寻找，探索
+6	ripple	n./v.	起波纹		6	basement	n.	地下室
+7	liar	n.	说谎者		7	obedient	a.	服从的，顺从的
+8	bribe	n./vt.	贿赂		8	obscene	a.	淫秽的，猥亵的
+9	turbulent	a.	吵闹的，狂暴的，（空气等）流动得剧烈而不稳定的		9	abnormal	a.	反常的，异常的；变态的
+10	vulnerable	a.	易受攻击的；易受伤害的		10	ensue	vi.	接着发生，因而产生
+11	incur	vt.	招致，引起		11	aesthetic	a.	美学的，审美的
+12	fossil	n.	化石，僵化的事物		12	bald	a.	秃头的；光秃的
+13	quarterly	ad.	每季地		13	oath	n.	誓言，宣誓
+14	ascend	vt.	上升，攀登		14	compatible	a.	可以共存的，相容的
+15	rage	n.	①时尚，风靡一时的事物②大怒，情绪激动		15	pathetic	a.	可怜的，悲惨的
+16	plateau	n.	高地，高原		16	vicious	a.	恶毒的，道德败坏的，堕落的
+17	foil	n./v.	金属薄片，箔/阻止，挫败		17	barber	n.	理发师
+18	bizarre	a.	奇异的，古怪的		18	pest	n.	害虫，令人讨厌的人或物
+19	renovate	vt.	革新，修理修复		19	suffice	v.	足够，有能力；使满足
+20	impair	vt.	损害，削弱		20	suburb	n.	郊区
+21	infectious	a.	传染性的，易传染的		21	manuscript	n.	手稿，原稿
+22	temperament	n.	气质，性情		22	illusion	n.	幻觉，错觉
+23	underestimate	v.	低估		23	sleeve	n.	袖子
+24	accommodate	vt.	为提供食宿，容纳/使适应；调节		24	further	vt.	促进，增进
+25	incorporate	vt.	合并，并入，包含		25	raid	n.	袭击
+26	discrete	a.	独立的，不连续的，离散的		26	dedicate	vt.	把奉献于，致力于
+27	incidentally	ad.	附带地，偶然地		27	designate	vt.	指定，任命
+28	encourage	vt.	鼓励，支持		28	conspicuous	a.	显著的；显眼的，引人注目的
+29	instantaneous	a.	瞬间的，即刻的		29	dessert	n.	餐后甜点
+30	thorn	n.	（植物）刺，棘，荆棘		30	screen	n./vt.	屏幕/甄别，审查
+31	tuition	n.	学费		31	grease	n.	油脂
+32	cue	n.	提示，暗示(尤指戏剧等演出中对演员起暗示作用的道白或动作)		32	refute	vt.	反驳
+33	plea	n.	恳求，请求；（法庭中被告方的）抗辩，辩护		33	reputation	n.	名誉，名声
+34	genetic	a.	遗传的，起源的		34	tar	n.	焦油，柏油
+35	contrive	vt.	设计，发明；策划，图谋		35	sheer	a.	陡峭的/纯粹的，绝对的
+36	genius	n.	天才，天赋		36	subjective	a.	"主观的,个人的"
+37	nutrition	n.	营养，营养学		37	costly	a.	昂贵的
+38	rupture	n./v.	破裂，裂开		38	disrupt	vt.	使混乱，使中断
+39	straightforward	a.	（指人，态度等）坦率的，老实的/简单的，易懂的		39	twinkle	v.	闪烁；（使）闪光
+40	fringe	n.	边缘，边界		40	exempt	vt.	使免除，豁免
+								
+								
+词汇6000 测试3					词汇6000 测试4			
+								
+1	striking	a.	醒目的，惊人的，引人注意的		1	curriculum	n.	学校的全部课程
+2	drawback	n.	弊端，缺点		2	drainage	n.	排水，排出物
+3	despise	vt.	轻视，鄙视		3	hover	vi.	翱翔，盘旋；徘徊
+4	recognize	vt.	①识别，辨认②认可，赏识；表彰		4	decimal	a./n.	十进制的，小数的/小数
+5	emigrate	vi.	移居他国		5	relay	vt.	分程传递，传播
+6	inclusive	a.	包含的，包括的		6	empirical	a.	以实际经验为依据的
+7	restraint	n.	抑制，克制		7	hostage	n.	人质，抵押品
+8	novelty	n.	新颖，新奇(的事物)		8	clarity	n.	清晰，易懂
+9	waterproof	a.	防水的		9	retrieve	v.	重新找回，取回 找回猎物
+10	entertainment	n.	娱乐，款待		10	scorn	n./vt.	轻蔑，不屑做
+11	disaster	n.	灾难，不幸；彻底的失败		11	lively	a.	活泼的，活跃的，栩栩如生的
+12	degenerate	vt.	（使）变坏，退化		12	gracious	a.	亲切的，高雅的
+13	prevalent	a.	普遍的，流行的		13	specify	v.	具体指定，明确说明
+14	terrain	n.	地势，地形		14	shrug	n./v.	耸肩
+15	impetus	n.	推动力，刺激物		15	envisage	vt.	设想，预见
+16	commonplace	a.	平凡的，普通的		16	immerse	vt.	浸入；使全神贯注于，使沉浸于
+17	radiate	v.	发光；放射，辐射		17	murmur	v.	低声说，低语
+18	catalogue	n.	目录		18	canvas	n.	帆布；画布
+19	shipment	n.	装运，装载的货物		19	slap	n./v.	拍，拍击，掌击
+20	blush	vi.	脸红，羞愧		20	furious	a.	狂怒的，狂暴的
+21	culminate	v.	（使）达到高潮，（使）以...告终		21	patriotic	a.	爱国的
+22	painful	a.	疼痛的，使痛苦的		22	contradict	vt.	同…矛盾，同...抵触；提出反对意见
+23	texture	n.	质地;(材料等的)结构		23	remainder	n.	残余，剩余物
+24	clip	vt.	修剪		24	controversial	a.	引起（或能引起）争论的
+25	sanction	n.	制裁，批准，认可		25	exemplify	vt.	例证，作为...例子
+26	trademark	n.	商标		26	ethnic	a.	种族的
+27	legitimate	a.	合法的，正当的，合理的		27	pendulum	n.	钟摆，摇锤
+28	humidity	n.	湿气，湿度		28	surpass	v.	超越，胜过
+29	gifted	a.	有天赋的		29	endeavor	v./n.	尝试，努力
+30	possession	n.	拥有，占有，财产		30	tariff	n.	关税
+31	comply	vi.	遵从，依从		31	naive	a.	天真的，幼稚的，容易上当的
+32	heave	v.	举起		32	gamble	n./v.	冒险，赌博，投机
+33	realization	n.	实现；意识		33	stride	n.	大步，一跨步
+34	institute	n./v.	学院，学会，协会/制定，开始，着手（调查等）		34	gross	a.	总的，毛重的
+35	hatch	vt.	孵化		35	textile	n.	纺织品
+36	maneuver	v.	（敏捷地）操纵，（用策略）调动		36	versatile	a.	多才多艺的
+37	pressure	n.	压力，压迫		37	trivial	a.	琐碎的，微不足道的
+38	flutter	v.	鼓翼，拍（翅膀）；（使）飘动		38	handicap	n.	残疾
+39	bankrupt	a./vt.	破产的/使...破产		39	redundant	a.	多余的，冗长的
+40	species	n.	类群，种类		40	sober	a.	"清醒的，未喝醉的，冷静的,严肃的"
+								
+								
+词汇6000 测试5					词汇6000 测试6			
+								
+1	wildlife	n.	野生动植物		1	mock	v.	尤指以（模仿性）嘲笑
+2	affiliate	vt.	使隶属；接纳为成员		2	tentative	a.	试验性的，试探的；暂定的
+3	merge	v.	使合并，使融合		3	lumber	n.	木材，木料
+4	update	v.	修正，校正；更新		4	rot	v.	使腐烂，使腐败
+5	presume	vt.	假定，假设，认为		5	unify	v.	统一，使成一体
+6	synthesis	n.	综合，合成		6	contrary	a.	相反的，对抗的
+7	damp	a.	潮湿的，有湿气的		7	verbal	a.	口头的
+8	safeguard	vt./n.	保护，捍卫/安全装置，安全措施		8	fracture	n./v.	骨折，破裂/使破裂，断裂
+9	renew	vt.	使更新，使恢复 重新开始		9	prosper	vi.	繁荣，成功
+10	synchronize	v.	（使）同步		10	dual	a.	双的，双重的
+11	zenith	n.	顶点，顶峰		11	expire	vi.	到期，期满/呼气
+12	displace	vt.	移置，转移；取代，替代		12	discriminate	v.	区别，辨别/歧视，区别对待
+13	sympathetic	a.	有同情心的；赞成的，合意的		13	verge	v.	濒临
+14	highlight	vt./n.	使显著，使突出/最显著或重要的部分		14	humanity	n.	人类；人性；博爱，仁慈
+15	hierarchy	n.	阶层，等级制度		15	pledge	n./v.	保证，誓言/发誓，保证
+16	manifest	a./v.	明白的，显而易见的/表明，证明		16	invalid	a.	无效的
+17	intensive	a.	集中的，密集的，加强的		17	spatial	a.	空间的
+18	aviation	n.	航空；航空学		18	preclude	v.	预先排除，使不可能
+19	adverse	a.	负面的，不利的		19	grin	v.	露齿笑，咧嘴笑
+20	promising	a.	有前途的，有希望的		20	terminate	v.	停止，结束
+21	stumble	v.	绊倒		21	by-product	n.	副产品
+22	barely	ad.	仅仅/几乎不能		22	cynical	a.	愤世嫉俗的
+23	impulse	n.	冲动，刺激，驱使		23	inherent	a.	固有的，内在的
+24	entrepreneur	n.	企业家，创业人		24	robust	a.	强壮的，健壮的
+25	scrape	n./vi.	刮，擦，擦痕/刮掉，擦掉		25	flatter	v.	阿谀奉承；讨好
+26	streamlined	a.	流线型的		26	diligent	a.	勤勉的，勤奋的
+27	portray	vt.	描述，绘制		27	consume	vt.	消费，消耗；大吃大喝
+28	acute	a.	灵敏的，敏锐的/剧烈的；严重的；紧要关头的		28	notable	a./n.	著名的，显要的/名人，要人
+29	dread	n.	畏惧，恐怖		29	enlighten	n.	启发，启蒙
+30	terrace	n./v.	梯田，阳台/使成梯田		30	glorify	v.	美化，赞扬
+31	shepherd	n.	牧羊人，牧羊犬		31	virus	n.	病毒
+32	exceptional	a.	杰出的，异常的		32	summit	n.	山顶，顶点
+33	everlasting	a.	永久的，永恒的；无止境的		33	ascribe	vt.	把…归于
+34	perfume	n.	香水，香味		34	prick	v.	刺，戳
+35	illuminate	v.	"照明，照亮/说明,阐明"		35	spectacle	n.	奇观，景象，展示
+36	impart	vt.	给予，传授，传递，传达		36	committed	a.	忠诚的，效忠的
+37	swarm	n./v.	蜂群，一大群/挤满，密集		37	fertilize	vt.	施肥，使丰饶；使受精
+38	imaginary	a.	想像中的，虚构的		38	govern	vt.	统治，管理；控制
+39	bias	n.	偏见，偏好		39	speculate	v.	推测，沉思
+40	random	a.	任意的，随便的		40	readily	ad.	容易地；欣然地，乐意地
+								
+								
+词汇6000 测试7					词汇6000 测试8			
+								
+1	deteriorate	v.	（使）恶化，（使）质量下降		1	generalize	vt.	归纳，概括
+2	dilemma	n.	困境，进退两难		2	deliberate	a.	"故意的，早有准备的/审慎的,深思熟虑的"
+3	sponge	n.	海绵		3	dictator	n.	独裁者
+4	consent	n./vi	同意，赞同		4	fist	n.	拳头
+5	fable	n.	寓言，神话		5	script	n.	手稿，手迹，剧本
+6	inspect	vt.	检查，审查		6	castle	n.	城堡
+7	reap	vt.	收割，收获；获得		7	fake	n.	赝品，假货
+8	tablet	n.	便签簿；药片		8	disperse	vt.	分散，散开
+9	stainless	a.	纯洁的，无瑕的，不生锈的		9	panic	n.	恐慌
+10	glitter	vi.	闪闪发光，闪烁		10	propagate	vt.	繁殖;散布，传播
+11	odor	n.	气味		11	depict	vt.	描述，描绘，描写
+12	tribute	n.	贡品，贡税；颂词，殷勤		12	cluster	n.	串，簇，群，组
+13	commute	vi.	通勤，往返于		13	ethics	n.	伦理学，道德规范
+14	refugee	n.	避难者，难民		14	solution	n.	解答，解决/溶液
+15	yell	n./v.	大叫，呼喊		15	vest	n.	背心
+16	allocate	vt.	分配		16	denial	n.	否定，否认，拒绝
+17	insight	n.	洞察力，见识		17	rim	n.	边缘
+18	prone	a.	易于...的，倾向...的		18	intervene	v.	介入，干涉
+19	undermine	v.	渐渐破坏，暗地里破坏		19	priority	n.	优先，优先权
+20	shot	n.	照相，照片/射击，开枪		20	distract	vt.	使…分心，分散注意力
+21	inert	a.	惰性的，不活泼的		21	entity	n.	实体
+22	suicide	n.	自杀，毁灭		22	erroneous	a.	错误的
+23	toss	n./v.	投，掷		23	tutor	vt./n.	辅导，当...的家庭教师/家庭教师
+24	snap	v.	突然折断/抢夺，抢购		24	overt	a.	明显的，公然的
+25	preservative	n.	防腐剂		25	section	n.	部分，节
+26	obscure	vt./a.	隐藏，使...模糊/朦胧的，模糊的，晦涩的		26	ascertain	vt.	"弄清,确定,"
+27	intact	a.	完整的，尚未被人碰过的		27	physiological	a.	生理学的，生理上的
+28	reconcile	vt.	使和解		28	nap	n.	（白天）小睡，打盹
+29	untie	v.	解开；松开		29	indefinite	a.	模糊的，不明确的
+30	peak	n.	山顶，最高点，顶端		30	intensify	vt.	加强，扩大
+31	offensive	a.	讨厌的，攻击性的，无礼的		31	glance	v./n.	掠过，匆匆一看
+32	distort	vt.	弄歪（形状等），歪曲		32	restrict	vt.	限制，约束
+33	oppress	vt.	压迫，压抑		33	erupt	vi.	喷出，爆发
+34	perception	n.	理解，感知，感觉		34	load	n./v.	重任，重担/装载，使负担
+35	intermittent	a.	间歇的，断断续续的		35	virgin	n.	处女
+36	collaborate	vt.	合作		36	warfare	n.	战争，斗争
+37	nominal	a.	名义上的，不实的；象征性的，微不足道的		37	dishonor	n./vt.	不名誉，耻辱/玷辱，使蒙羞
+38	sovereign	n./a.	君主，统治/独立自主的		38	foresee	vt.	预见，预知
+39	divine	a.	上帝的，神性的，神圣的		39	tackle	v.	应付（难事等），处理
+40	complaint	n.	抱怨，诉苦		40	brochure	n.	小册子
+								
+								
+词汇6000 测试9					词汇6000 测试10			
+								
+1	seminar	n.	"研究会,讨论会"		1	oral	a.	口头的
+2	tactic	n.	战术，用兵学；策略，手段		2	scar	n.	伤疤，伤痛
+3	certainty	n.	确定，确定的事情		3	postulate	vt.	要求，假定
+4	junction	n.	连接，汇合处		4	irritate	vt.	激怒，使过激
+5	exquisite	a.	优美的，精致的，高雅的		5	fraud	n.	欺骗，骗子
+6	strive	v.	努力，奋斗，力求		6	notify	v.	通知
+7	stubborn	a.	顽固的，固执的		7	constituent	n.	成分，要素；选举者
+8	mall	n.	大规模购物中心		8	clay	n.	粘土；泥土
+9	foremost	a.	最重要的，最先的		9	disturbance	n.	骚动，动乱
+10	doctrine	n.	教义，教旨		10	horrible	a.	可怕的，恐怖的
+11	aggravate	vt.	使恶化，使加重		11	pertinent	a.	恰当的，相关的，切题的，中肯的
+12	radical	a.	根本的，激进的		12	elderly	a.	过了中年的；近老年的；稍老的
+13	stitch	v.	缝		13	wrinkle	n.	皱纹，褶皱
+14	degrade	vt.	使…降级，贬低		14	ignorant	a.	无知的，不了解的
+15	selection	n.	选择，挑选，选集，精选品		15	repel	vt.	击退，驱逐
+16	parachute	n.	降落伞		16	ambitious	a.	有雄心的，渴望成功的
+17	corps	n.	军团，兵团		17	haul	v.	托，拉
+18	brace	vt./n.	支撑/支柱，支架		18	consolidate	v.	巩固，合并
+19	compliment	vi	赞美，恭维		19	commence	v.	开始，着手
+20	dissipate	v.	消失，消散		20	gloomy	a.	黑暗的，阴沉的；使人沮丧或恐惧的
+21	originate	vt.	产生，发起，创办		21	crew	n.	（船上，飞机上的）全体工作人员，同事们
+22	wedge	n./v.	楔，（使）分裂的东西/楔入，挤进		22	questionable	a.	①不确定的②可疑的，靠不住的
+23	coward	n.	懦弱的人，胆小的人		23	cunning	a./n.	狡猾（的），富有心计（的）
+24	snack	n.	小吃，快餐		24	colonize	vt.	建立殖民地
+25	pastime	n.	消遣，娱乐		25	astonish	vt.	使惊讶
+26	mute	a.	哑的，无声的，沉默的		26	ritual	n.	典礼，宗教仪式；例行公事，常规
+27	profile	n.	剖面，侧面，轮廓，概况，传略		27	pacific	a.	和平的，平静的
+28	sue	v.	提出诉讼，控告		28	broom	n.	扫帚
+29	defy	vt.	公然反抗，蔑视，挑衅		29	soar	v.	高飞，翱翔，剧增
+30	tempo	n.	（音乐）速度，拍子		30	fascinate	vt.	使着迷，使神魂颠倒
+31	perish	v.	死亡，腐烂		31	component	n.	成分，组成部分
+32	deprive	vt.	剥夺，使失去		32	pave	vt.	"铺设,为…铺路"
+33	compete	vt.	竞赛，竞争		33	coherent	a.	连贯的，有条理的
+34	partition	n./v.	分割/隔开，分割		34	fragrant	a.	香的，芬芳的
+35	warehouse	n.	仓库，货栈		35	haunt	vt.	（想法，回忆等）萦绕心头，困扰
+36	leaflet	n.	传单		36	prayer	n.	祈祷，祈求
+37	mortal	a.	必死的，致命的		37	practicable	a.	行得通的，可以实行的
+38	robbery	n.	抢劫		38	masculine	a.	男性的，男子气概的
+39	studio	n.	录音室，艺术家工作室		39	marshal	v./n.	排列，整理，汇集/元帅，最高指挥官
+40	missionary	n.	传教士		40	bandage	n.	绷带
+								
+								
+词汇6000 测试11					词汇6000 测试12			
+								
+1	cabin	n.	小屋；船舱		1	violate	v.	亵渎（圣物），冒犯，违反
+2	optimum	a.	最适宜的		2	perfect	a./v.	完美的，理想的/使完美，使熟练
+3	commander	n.	指挥官，司令		3	proposition	n.	提议，主张
+4	activate	vt.	刺激，使活动		4	latitude	n.	纬度，范围，行动或言论的自由（范围）
+5	fantastic	a.	极好的，奇异的		5	adolescent	a.	"青春期的,青少年的"
+6	weave	v.	编织，组合		6	testify	v.	证明，证实，作证
+7	patient	n./a.	病人，患者/忍耐的，耐心的		7	intriguing	a.	吸引人的，引起兴趣（或好奇心）的
+8	foul	a.	污秽的，肮脏的		8	extensive	a.	广的，广泛的，多方面的
+9	lounge	v./n.	闲混，闲荡；懒洋洋打发时间/起居室		9	violence	n.	暴力，强烈
+10	clasp	vi.	扣紧，紧握		10	superb	a.	极好的，超级的
+11	recruit	vt.	征兵，征募；补充		11	trigger	vt.	引发，引起，触发
+12	symmetry	n.	对称（性），匀称		12	pedal	n.	踏板
+13	ventilate	vt.	使通风		13	dismay	vt./n.	（使）惊慌，（使）沮丧
+14	imperative	a.	必要的，强制的		14	radiant	a.	（向四面八方）发光的；容光焕发的；喜形于色的
+15	destruction	n.	破坏，毁灭		15	refrain	v.	节制，避免
+16	token	n.	象征，记号		16	eligible	a.	合格的，有资格的
+17	spy	n./v.	间谍，侦探/侦察，暗中监视；看见，发现		17	patrol	v.	巡逻，巡视
+18	peel	v.	剥（或剥）...的皮，剥落，脱皮		18	seemingly	ad.	表面上，似乎
+19	dramatic	a.	戏剧性的，引人注目的		19	luminous	a.	发光的，明亮的
+20	composite	a.	混合的，合成的		20	reside	vi.	居住
+21	brisk	a.	"轻快的,活泼的"		21	vocal	a.	嗓音的，歌唱的
+22	savage	a.	野蛮的，凶猛的，未开化的，残忍的		22	cereal	n.	谷物；谷类食品
+23	mortgage	n.	抵押贷款		23	offspring	n.	子孙，后代
+24	hospitality	n.	好客，盛情		24	slum	n.	贫民窟
+25	parcel	n.	包裹		25	articulate	vt./a.	清晰地发音/善于言辞的，表达清晰的
+26	drastic	a.	激烈的，猛烈的		26	fare	n.	车船费
+27	reclaim	vt.	开垦；要求归还，收回		27	queer	a.	奇怪的，古怪的
+28	option	n.	选项，选择权		28	deficiency	n.	缺乏，不足
+29	slack	a.	疏忽的/松弛的，松散的		29	faithful	a.	忠实的
+30	overthrow	vt.	打到，推翻，颠覆		30	civilization	n.	文明，文化；开化
+31	questionnaire	n.	调查表，问卷		31	anonymous	a.	匿名的
+32	void	n./a.	空白，空虚/无效的		32	criterion	n.	（评判的）标准，尺度
+33	congratulation	n.	祝贺，道喜		33	alien	a.	相异的；陌生的
+34	vapor	n.	水汽，水蒸气		34	plead	v.	恳求，（指律师）（为...）申诉，（指律师）（为...）辩答
+35	simultaneous	a.	同时的，同时发生的		35	integrity	n.	完整性，正直，诚实
+36	profitable	a.	有利润的，赚钱的；有益的		36	clutch	vt.	抓住
+37	evoke	vt.	引起，激起，唤起		37	testimony	n.	证据；（律）证言
+38	comparatively	ad.	比较地，相当地		38	shade	n.	荫，阴凉处，；阴影/遮光物，帘
+39	suspicious	a.	（人或物）可疑的；好猜疑的，怀疑的		39	scrap	n./vt.	废料，残余物/废弃，扔弃
+40	saturate	vt.	浸透，使湿透		40	innovation	n.	改革，创新
+								
+								
+词汇6000 测试13					词汇6000 测试14			
+								
+1	Antarctic	a./n.	南极的/南极地区		1	predominant	a.	支配的，主要的
+2	petition	n./v.	请愿		2	conceive	v.	构思，构想
+3	commemorate	vt.	纪念，庆祝		3	ponder	v.	深思，思考
+4	accent	n.	"口音,腔调/重音"		4	resent	vt.	憎恨，怨恨
+5	tense	a.	紧张的，拉紧的		5	deadline	n.	最终期限
+6	vigor	n.	精力，活力		6	skeleton	n.	骨架，梗概
+7	leak	vt.	漏；渗；泄露		7	traverse	v.	横贯，横越
+8	premature	a.	早熟的，不成熟的，过早的		8	stereotype	n.	陈规，老套，模式化的形象、思想
+9	ornament	n.	装修，装饰物		9	initiate	vt.	开始，发起
+10	repay	v.	偿还		10	messenger	n.	报信者，使者
+11	agony	n.	极大的痛苦		11	pale	a.	（脸色）苍白的，暗淡的
+12	permission	n.	允许，许可		12	militant	a.	好战的，好暴力的
+13	weary	a.	疲倦的，厌倦的		13	relic	n.	遗迹，纪念物
+14	mobilize	v.	动员		14	flaw	n.	缺点，瑕疵
+15	agreeable	a.	使人愉快的，合意的/和蔼可亲的，容易相处的		15	tile	n.	瓦片，瓷砖
+16	paradise	n.	天堂		16	application	n.	申请；运用
+17	galaxy	n.	星系，银河		17	carpenter	n.	木匠
+18	frigid	a.	寒冷的，冷淡的		18	visualize	v.	使可见；想象，设想
+19	brim	n.	"边,边缘"		19	terrific	a.	极好的
+20	ray	n.	光线		20	probe	vi.	调查，查究
+21	client	n.	顾客，客户		21	clockwise	a./ad.	顺时针方向的（地）
+22	embassy	n.	大使馆		22	avert	vt.	"转移,避免，规避"
+23	profession	n.	职业，专业		23	overlap	vt.	部分重叠，与…交搭，迭盖
+24	multiple	a.	多样的，多重的		24	spouse	n.	配偶
+25	portion	n.	一部分，部分		25	misfortune	n.	不幸，灾祸
+26	hurl	vt.	用力投掷		26	facet	n.	面，（问题等的）方面
+27	symptom	n.	症状，征兆		27	formulate	vt.	系统地阐述（或提出）
+28	tight	a.	紧的；绷紧的；紧密的		28	fort	n.	要塞，堡垒
+29	eternal	a.	永恒的，永远的		29	descent	n.	下降/血统，世系
+30	prestige	n.	威望，声望		30	justice	n.	正义，公平，公正
+31	lessen	v.	减少，变小		31	epoch	n.	新纪元，时代
+32	assert	vt.	声称，坚持		32	log	n.	圆木
+33	migrate	vi.	移动，迁徙		33	bless	n.	祝福，保佑
+34	merchandise	n.	商品		34	rectify	vt.	矫正
+35	trait	n.	特征，特性		35	respect	n./v.	尊敬，敬重；方面/尊敬，敬重
+36	advocate	n./vt.	"提倡者/拥护,主张"		36	evidence	vt./n.	证明，表明，显示/证据
+37	deadly	a.	致命的		37	whim	n.	随意，冲动
+38	conform	vi.	遵守，顺从，符合		38	supervise	v.	监督，指导
+39	skip	v.	跳，跳过，遗漏		39	verdict	n.	判决，结论
+40	slot	n.	狭槽，窄缝		40	irrigate	vt.	灌溉
+								
+								
+词汇6000 测试15					词汇6000 测试16			
+								
+1	revenge	vt.	替...报仇，复仇		1	inventory	n.	存货清单，库存品
+2	ingenious	a.	机灵的，有独创性的		2	infer	v.	推论，推断
+3	subsidize	v.	补助，资助		3	assignment	n.	任务，作业/分配，转让
+4	descendant	n.	子孙，后裔		4	appreciable	a.	很大的，值得重视的
+5	brake	n./v.	"制动器,闸/刹车"		5	hamper	vt.	妨碍，使困难
+6	donate	vt./vi	捐赠		6	disguise	n./vt.	伪装，掩盖
+7	prey	n./vi.	"被掠食者,牺牲者/捕食,掠夺"		7	baggage	n.	行李
+8	continuity	n.	（时间，空间上的）连续性，连贯性		8	muddy	a.	多泥的，泥泞的
+9	eject	v.	逐出，驱逐;喷射，喷出		9	publicity	n.	公开，宣传
+10	tangle	n./v.	（使）混乱状态；（使）缠结		10	irony	n.	反讽，讽刺
+11	glide	vi	滑行，滑动		11	colleague	n.	同事，同僚
+12	breathe	v.	呼吸，呼出		12	enforce	vt.	强制服从或遵守；实施，执行/坚持（主张等）；强加（观点等）
+13	realistic	a.	现实（主义）的		13	ecology	n.	生态学，生态平衡
+14	porous	a.	可渗透的，多孔的		14	obsolete	a.	废弃的，过时的
+15	queue	n.	长队，长列		15	nasty	a.	令人不愉快额，讨厌的；污秽的，下流的
+16	giant	a.	庞大的，巨大的		16	timid	a.	羞怯的，胆怯的
+17	lame	a./v.	跛的/使成残废，使跛		17	carve	vt.	把（熟肉）切成片；雕刻
+18	destructive	a.	"破坏的,毁灭性的"		18	trifle	n.	琐事；少量
+19	betray	vt.	背叛/(非故意地)暴露		19	extravagant	a.	奢侈的，浪费的
+20	assault	n.	袭击.攻击		20	contempt	n.	轻视，蔑视
+21	intimidate	v.	恐吓		21	polar	a.	极地（南极或北极）的；对立的
+22	departure	n.	出发，离开		22	standardize	v.	使符合标准，使标准化
+23	wallet	n.	皮夹，钱夹		23	contend	vi.	斗争，竞争
+24	medal	n.	奖章，勋章，纪念章		24	Arctic	a.	北极的
+25	amend	vt.	改正，修正		25	meadow	n.	草地，牧场
+26	extract	n./vt.	精，汁，榨出物/拔出，榨取		26	appraisal	n.	评价，估价
+27	sin	n.	罪		27	mournful	a.	悲痛的，悲哀的
+28	memorandum	n.	备忘录，便笺		28	vent	n.	通风孔，出烟孔
+29	spectator	n.	参观者，观众		29	cling	vi.	粘紧，附着；坚持（意见），墨守（习惯）
+30	accessory	n.	附件，零件		30	extension	n.	延长，扩充；增加的部分
+31	certify	v.	证明；保证		31	staircase	n.	楼梯
+32	endurance	n.	忍耐（力），持久（力）		32	longitude	n.	经度，经线
+33	badge	n.	"徽章,证章"		33	foster	vt.	鼓励，促进/养育，抚养
+34	autonomy	n.	自治，自治权		34	insulate	v.	隔离，使绝缘或隔热
+35	exposition	n.	博览会，展览会		35	trench	n.	沟，壕沟
+36	proximity	n.	接近		36	batch	n.	一炉，一批
+37	consecutive	a.	连续的		37	adhere	vi.	黏附，粘牢/追随；遵守
+38	pretext	n.	借口，托辞		38	internal	a.	内在的
+39	inject	vt.	注射，注入，灌输		39	mediate	v.	斡旋，调停，调解
+40	expertise	n.	专门技术，技能		40	medieval	a.	中世纪的
+								
+								
+词汇6000 测试17					词汇6000 测试18			
+								
+1	collide	vi.	碰撞，相撞		1	tick	v.	滴答地响
+2	divorce	n.	离婚，脱离		2	inhibit	vt.	抑制，阻止
+3	pierce	vt.	穿透，戳穿		3	vein	n.	静脉；血管
+4	pose	vt./n.	形成，引起/姿势，姿态		4	unfold	v.	展开；显露，展示
+5	industrious	a.	勤勉的；勤奋的		5	enroll	v.	参军，注册
+6	pertain	vi.	有关，关于		6	doom	vt.	注定
+7	warrant	n.	授权书，委托书；许可证		7	breakdown	n.	"失败，机械故障/细目,分类"
+8	mingle	v.	使混合，使结合		8	afflict	vt.	折磨；使苦恼
+9	compensate	vt.	补偿，赔偿		9	complement	vt./n.	补充，补足，补足品
+10	subscribe	v.	订阅		10	retrospect	n.	反顾，回顾
+11	menace	n./v.	危险物/威吓，胁迫		11	cherish	v.	抱有（希望等）；珍爱
+12	reciprocal	a.	相应的；相互的		12	solitary	a.	孤独的，独居的
+13	abide	vi./vt.	遵守/忍受		13	duplicate	vt./a.	复写，复制/两重的，两倍的；完全相同的
+14	scandal	n.	丑闻		14	invert	vt.	上下倒置，倒转
+15	hemisphere	n.	半球，大脑半球		15	grateful	a.	感激的，感谢的
+16	inferior	a.	（质量等的）差的，（等级，社会地位等）较低的		16	rigorous	a.	严格的
+17	energetic	a.	精力充沛的；积极的		17	horn	n.	（牛，羊等的）角
+18	intricate	a.	复杂的，错综的		18	blunt	a.	直言不讳的/钝的
+19	complication	n.	复杂化，因素		19	cement	n.	水泥；结合剂；结合，胶合；巩固
+20	courtesy	n.	礼貌，谦恭		20	alternate	a./vi.	交替的，轮流的；替代的/轮替
+21	contaminate	vt.	弄脏，污染；感染		21	overwhelm	vt.	战胜，压到；淹没，使沉浸
+22	pamphlet	n.	小册子		22	drought	n.	干旱
+23	magnify	vt.	放大，扩大		23	spacious	a.	广大的，宽敞的
+24	inhabit	vt.	居住于，栖息于		24	imaginative	a.	富于想象力的
+25	mysterious	a.	神秘的，不可思议的		25	destine	vt.	命中注定，预定
+26	paralyze	vt.	使瘫痪，使麻痹		26	refreshing	a.	使人精神振作的；使人耳目一新的
+27	eloquent	a.	善于表达的，有口才的，雄辩的		27	consensus	n.	意见一致
+28	miniature	n./a.	缩图，缩影；缩小的模型/微型的，缩小的		28	proper	a.	恰当的，得体的
+29	dubious	a.	可疑的，怀疑的，不确定的		29	array	n.	展示，一系列
+30	flare	n./v.	闪光，闪耀/闪光，突然爆发或燃烧，闪耀		30	perpetual	a.	不间断的.永久的，持续的，永恒的
+31	compile	vt.	汇集，编辑		31	proclaim	vt.	声明，宣告
+32	clinic	n.	诊所		32	spectrum	n.	光谱，谱
+33	affirm	vt.	断言/证实，确认		33	bewilder	vt.	"使迷惑,使难住"
+34	execution	n.	实施，执行；完成		34	garment	n.	衣服，外衣
+35	cohesion	n.	附着，团结		35	profound	a.	深刻的，深奥的
+36	concert	n.	音乐会，一致，共同		36	envelop	vt.	把…包住，裹住
+37	knit	v.	编织，针织		37	preside	v.	主持，负责
+38	casualty	n.	事故；伤亡者		38	drag	v.	拖动
+39	curious	a.	（令人）好奇的		39	youngster	n.	年轻人，少年
+40	magnitude	n.	大小，广度，重要		40	cargo	n.	货物
+								
+								
+词汇6000 测试19					词汇6000 测试20			
+								
+1	escort	n.	护卫队，护送，陪同（人员）		1	grim	a.	严厉的，严峻的
+2	incentive	n.	动机；刺激；鼓励		2	jerk	n./v.	急拉，猛然一动（或颤动）
+3	threshold	n.	开始，开端		3	endow	vt.	捐赠，赋予
+4	sentimental	a.	伤感的，感情脆弱的		4	indulge	v.	沉溺于，纵容
+5	subordinate	a.	下级的，从属的		5	innumerable	a.	无数的，数不清的
+6	wreath	n.	花圈，花环		6	deviate	v.	（使）背离，（使）偏离
+7	intent	n.	意图		7	ample	a.	富足的，充足的
+8	transition	n.	转变，过渡		8	district	n.	区域，地区
+9	volunteer	n./v.	自愿者，自愿		9	recipe	n.	食谱；处方
+10	construct	vt.	建造，创立		10	appendix	n.	"附录,阑尾"
+11	lubricate	vt.	使润滑，加润滑油于		11	uncover	v.	发现，揭示
+12	gleam	n.	微弱的光，一丝光线		12	notation	n.	符号
+13	outbreak	n.	发作，爆发		13	label	n./v.	标签/贴标签于
+14	erosion	n.	腐蚀，侵蚀		14	qualification	n.	资格，条件
+15	multitude	n.	大量，多数		15	induce	vt.	诱使，促使，导致
+16	configuration	n.	轮廓，构形		16	idiom	n.	方言，土语，习惯用语
+17	imply	vt.	暗示，意味		17	negligible	a.	可忽略的，无关紧要的
+18	abrupt	a.	突然的；意外的/唐突的；无礼的		18	numerical	a.	数字的，用数字表示的
+19	vegetation	n.	植物，草木，植被		19	municipal	a.	市的，市政的
+20	privacy	n.	独处而不受干扰；隐私		20	tragic	a.	悲惨的，悲剧的
+21	disclose	vt.	揭露，透露，露出		21	axis	n.	轴；轴心
+22	cellar	n.	地窖；地下室		22	shutter	n.	百叶窗
+23	perplex	vt.	使迷惑，使困惑，难住		23	applaud	vi.	喝彩，欢呼
+24	bronze	n.	青铜；铜像		24	throne	n.	王座;君主
+25	plausible	a.	好像有道理的，似乎真实的，善于花言巧语的		25	startle	v.	震惊
+26	fling	v.	猛投，掷		26	atmosphere	n.	"大气,大气层"
+27	eccentric	a./n.	古怪的（人），异常的（人）		27	shabby	a.	破旧的，褴褛的
+28	delight	n./v.	（使）高兴，（使）愉快		28	composition	n.	构成，组成，作文
+29	pension	n.	养老金，退休金		29	ambiguous	a.	"模棱两可的,含糊不清的"
+30	collection	n.	收集		30	assimilate	vt.	学习，吸收知识/吃，吸收营养
+31	purify	vt.	提纯，精炼		31	blossom	n./v.	花/开花
+32	unemployment	n.	失业；失业人数		32	constrain	vt.	限制，抑制；约束；关押
+33	recreation	n.	消遣，娱乐		33	independence	n.	独立，自主
+34	vocation	n.	职业		34	dentist	n.	牙科医生
+35	hasty	a.	匆匆忙忙的，草率的		35	spokesman	n.	发言人，代表者
+36	upgrade	v.	使升级，提升		36	steward	n.	（轮船、飞机等的）乘务员，管家
+37	brutal	a.	"无情的,野蛮的"		37	reckless	a.	轻率的，鲁莽的
+38	beneath	prep	在…之下		38	superiority	n.	优越，优秀
+39	compulsory	a.	强制性的，必须的		39	morality	n.	道德
+40	reform	n./v.	改革，革新		40	static	a.	静态的，呆板的
+								
+								
+词汇6000 测试21					词汇6000 测试22			
+								
+1	pasture	n.	牧场，草地		1	chronic	a.	长期的；慢性的
+2	blazing	a.	炽烧的；闪耀的		2	penalty	n.	处罚，罚款，违约金
+3	means	n.	手段，方法		3	theme	n.	（谈话，写作等的）题目；主题
+4	favorable	a.	有利的，顺利的，赢得赞扬的		4	incidence	n.	发生，出现，发生频率
+5	gigantic	a.	巨大的		5	forum	n.	论坛，讨论会
+6	tumble	v.	跌倒		6	linger	vi.	逗留，徘徊
+7	alleviate	vt.	"减轻,缓解,缓和"		7	skeptical	a.	怀疑的，多疑的
+8	revolutionary	a.	革命的，彻底改变的		8	kidnap	v./n.	绑架
+9	dignity	n.	尊严，高贵		9	elevate	vt.	举起，抬高，使上升
+10	decisive	a.	决定性的		10	agenda	n.	日程，议程
+11	butter	n.	奶油		11	bureaucracy	n.	官僚，官僚作风
+12	smuggle	v.	走私		12	surge	n.	汹涌，澎湃，喷发
+13	chorus	n.	合唱团		13	hurricane	n.	飓风，暴风雨
+14	linear	a.	线的，直线的，线性的		14	transient	a.	短暂的，瞬时的
+15	saw	v./n.	锯，锯开/锯子		15	premise	n.	假设，前提
+16	legend	n.	传说，传奇文学		16	segment	n.	部分，片段
+17	brood	n./vt.	一窝/孵蛋		17	renaissance	n.	复活，文艺复兴
+18	switch	n./v.	开关，电闸，转换，转变/转换，转变		18	irrespective	a.	不顾的，不考虑的
+19	flap	v.	拍动，拍打；鼓翼而飞		19	cumulative	a.	累积的，累加的
+20	extinguish	vt.	熄灭，消灭，压制		20	prospective	a.	预期的
+21	detail	n./vt.	细节，详情/详述，细说		21	coincide	vt.	同时发生，相符
+22	veil	v.	隐藏，遮蔽		22	barrel	n.	桶
+23	embody	vt.	使…具体化；包含，收录		23	shuttle	n.	往返汽车、列车等（穿梭往返固定线路的运输工具）
+24	equilibrium	n.	平衡，均衡		24	inflict	vt.	造成，使遭受（痛苦，损伤等）
+25	waterfall	n.	瀑布		25	grief	n.	悲痛，不幸
+26	allege	vt.	"断言,宣称,辩解"		26	shatter	v.	使粉碎，使破碎
+27	conception	n.	观念，认识		27	peninsula	n.	半岛
+28	persistent	a.	持久的，坚持的		28	feast	n.	节日，盛宴
+29	implicit	a.	不明确的，含蓄的		29	sacred	a.	神圣的，不可冒犯的
+30	diversion	n.	转移，转换/消遣，娱乐		30	preach	v.	布道，鼓吹
+31	ensure	vt.	保证，担保		31	detective	n.	侦探
+32	authentic	a.	真的；可靠的		32	stationery	n.	文具
+33	feedback	n.	反馈，反应		33	lofty	a.	高高的
+34	subsidiary	n.	支流，子公司		34	foam	n.	泡沫
+35	duration	n.	持续的时间		35	recession	n.	萧条时期，（经济）衰退
+36	guardian	n.	保护人，监护人		36	perform	vt.	履行，执行，表演，演出
+37	tenant	n.	承租人，房客		37	conserve	vt.	保存，保藏
+38	wed	v.	娶，嫁，（与...）结婚		38	premium	n.	奖金，奖励；保险金
+39	caution	n./vt.	小心，谨慎；警告		39	notorious	a.	臭名昭著的，声名狼藉的
+40	aspect	n.	"方面,一部分/观点，角度"		40	pregnant	a.	怀孕的
+								
+								
+词汇6000 测试23					词汇6000 测试24			
+								
+1	installment	n.	分期付款		1	narrate	v.	讲述
+2	limp	a./v.	柔软的，易曲的，无生气的/跛行		2	divert	vt.	转移，转向
+3	conscientious	a.	尽责的，一丝不苟的		3	counterpart	n.	相似的人或物，配对物
+4	hose	n./v.	软管，水龙带/用软管浇水		4	analytical	a.	"分析的,分析法的"
+5	feminine	a.	女性的，有女性气质的；（语法学）阴性的		5	captive	n.	俘虏
+6	converge	vi.	聚合，集中于一点，会聚		6	contemplate	vt.	注视；沉思，（对...做）周密考虑
+7	speciality	n.	招牌性服务或产品，拳头产品/专业，特长		7	terrify	v.	使恐怖，使惊吓
+8	episode	n.	一段情节，插曲		8	muscular	a.	强壮的，肌肉发达的
+9	exotic	a.	异国的，外来的；奇异的		9	manipulate	vt.	操作，操纵，利用
+10	category	n.	种类，类目；范畴		10	orderly	a.	有秩序的，整洁的
+11	corrupt	v./a.	（使）堕落，（向...）行贿/堕落的;不诚实的；贪污受贿的		11	flank	n.	侧面，侧翼
+12	melody	n.	旋律，曲调		12	stationary	a.	固定的，静止的
+13	customary	a.	习惯上的，通常的		13	reproach	v.	谴责
+14	deficit	n.	赤字		14	litter	v./n.	乱丢（废弃物）/垃圾
+15	bleak	a.	荒凉的；凄凉的		15	propel	vt.	推进，促进
+16	withhold	v.	保留，抑制		16	productive	a.	多产的，丰饶的，有成果的
+17	consequent	a.	作为结果的，随之发生的		17	quench	vt.	①熄灭②解渴
+18	compact	a.	紧凑的，压缩的		18	companion	n.	同伴，同事
+19	rally	v.	召集，集合；恢复		19	bibliography	n.	"书目提要,书目"
+20	recur	vi.	重现，再来；复发		20	facilitate	vt.	使容易；有助于，促进
+21	effective	a.	"有效的,生效的"		21	intelligible	a.	明了的，可理解的
+22	pill	n.	药片		22	astronomy	n.	天文学
+23	bypass	vt.	迂回，绕过		23	spontaneous	a.	自发的，自然产生的
+24	thrill	v.	（使）激动，（使）发抖		24	exile	vt.	放逐，流放
+25	paradox	n.	似是而非，自相矛盾的话（或人）		25	frontier	n.	国境，过境
+26	permeate	vt.	弥漫，渗透，透过		26	interim	n.	中间时期，过渡时期
+27	statistics	n.	统计学		27	fold	v./n.	折叠，抢/折痕，褶
+28	stabilize	v.	使稳定，使坚固		28	therapy	n.	治疗（法）
+29	imitation	n.	模仿，仿制品		29	disable	vt.	使残疾，使失去能力
+30	splash	v.	溅，泼		30	poll	n.	选举投票，民意测验
+31	domain	n.	领域，范围		31	analogy	n.	类比，类推
+32	passport	n.	护照		32	dwell	vi.	居住，生活于
+33	barren	a.	贫瘠的；荒凉的		33	marsh	n.	湿地，沼泽
+34	tribe	n.	部落，部族		34	mental	a.	精神的，智力的
+35	directory	n.	目录，指南		35	snatch	n./v.	攫取，抓住
+36	bulletin	n.	"公告,报告"		36	timber	n.	木材，木料
+37	turnover	n.	营业额 ；人员更替率		37	saint	n.	圣人，道德崇高的人
+38	quiver	n./v.	（使）颤抖		38	fulfill	v.	履行，实现;使满足
+39	retort	v.	反驳		39	pursuit	n.	①追求；职业②追踪，追捕
+40	cosmic	a.	宇宙的		40	distill	vt.	蒸馏，提取
+								
+								
+词汇6000 测试25					词汇6000 测试26			
+								
+1	sturdy	a.	（人）强健的，结实的，（物）稳固的		1	condensation	n	"压缩,浓缩"
+2	entail	vt.	使成为必要，使…承担；使...发生		2	costume	n.	服装
+3	scanty	a.	缺乏的，不足的		3	hysterical	a.	歇斯底里的；异常兴奋的
+4	practical	a.	实际的，实用的，实践的		4	tug	v.	用力拖，吃力地搬运
+5	hypothesis	n.	假说，假设		5	fluctuate	vi.	波动，起伏
+6	specification	n.	规格，详细说明书		6	jeopardize	v.	危害，使陷于困境
+7	authorize	vt.	授权，批准		7	discourage	vt.	使气馁，阻碍
+8	tilt	n.	倾斜		8	crisp	a.	脆的，易碎的
+9	boycott	vt.	"抵制,拒绝参加"		9	theft	n.	偷窃
+10	seam	n.	接缝，缝合线		10	immune	a.	对…免疫，不受影响的
+11	skyscraper	n.	摩天大楼		11	agitation	n.	焦虑，不安；煽动
+12	earnings	n.	所得，收入		12	groan	v.	呻吟，叹息
+13	burden	n.	担子，负担；负担		13	advent	n.	出现，到来
+14	diagnose	vt.	诊断		14	arrange	v.	"安排,准备；整理，摆放"
+15	standpoint	n.	立场，观点		15	virtual	a.	实质上的
+16	fabricate	vt.	制作，构成/伪造，虚构		16	commend	vt.	表扬，赞扬
+17	detach	vt.	拆开，分开/派遣，分派		17	dispatch	vt./n.	（紧急）派遣/派遣，急件，重要消息
+18	expel	vt.	驱逐，开除；排出		18	reproduce	v.	繁殖，复制 再生
+19	pedestrian	n./a.	行人，步行者/平淡无奇的，缺乏想象力的		19	edible	a.	可食用的
+20	wholesome	a.	有益健康的，健全的		20	ignite	v.	点燃，使燃烧
+21	fuse	v.	熔合		21	symphony	n.	交响乐，交响曲
+22	cruelty	n.	残忍，残酷		22	denounce	vt.	（公开）谴责，斥责
+23	suitcase	n.	手提箱，衣箱		23	metropolitan	a.	主要都市的，大城市的
+24	invariably	ad.	不变地，总是		24	resonance	n.	回声，反响
+25	obligation	n.	义务，职责		25	slogan	n.	口号，标语
+26	unanimous	a.	全体意见一致的		26	prolong	vt.	拖长，延长
+27	disposal	n.	垃圾倾倒，处置		27	knob	n.	球形把手，节，瘤
+28	wrench	n./v.	猛拉，猛扭		28	extinct	a.	（动物）灭绝的；（火山）不再活跃的，熄灭的
+29	dizzy	a.	眩晕的		29	heritage	n.	遗产，继承物；传统
+30	locality	n.	位置，地点		30	fixture	n.	（房屋等的）固定装置；固定设备
+31	overhear	vt.	无意中听到，偷听		31	overflow	v.	（使）泛滥，（使）溢出
+32	versus	prep.	对，对抗（指诉讼，比赛等中），与…相对		32	drill	vt./n.	钻空，打眼/训练，操练，反复练习
+33	insane	a.	精神失常的，疯狂的		33	thrifty	a.	节俭的，节省的
+34	prototype	n.	原型		34	gaze	v.	盯，凝视
+35	buffer	n/v.	"缓冲器/缓冲,减轻"		35	dazzling	a.	眼花缭乱的，耀眼的
+36	cavity	n.	洞；腔		36	nourish	vt.	养育，滋养
+37	excessive	a.	过度的，过分的，过多的		37	reign	vt./n	统治，支配
+38	cater	vi.	满足，迎合（需要）		38	magic	n.	魔法，魔力；魔术
+39	thesis	n.	论题，论文		39	offset	v.	弥补，抵消
+40	plague	n./v.	瘟疫，灾祸/折磨，使苦恼，给…造成麻烦		40	epidemic	n.	传染病，流行病
+								
+								
+词汇6000 测试27					词汇6000 测试28			
+								
+1	verse	n.	诗，韵文		1	hoist	n./v.	起重机/举起，升起，吊起
+2	sharpen	vt.	"削尖，使敏锐,使敏捷"		2	deem	vt.	认为，相信
+3	transplant	v.	移植		3	solidify	v.	使凝固，使团结，巩固
+4	correspondence	n.	通信，信件，符合，一致		4	segregate	vt.	分离，隔离
+5	mislead	vt.	使误入歧途，误导；欺骗		5	brittle	a.	"易碎的,易损坏的"
+6	swamp	n.	沼泽，湿地		6	supersonic	a.	超音速的
+7	scent	n.	气味，香味		7	explicit	a.	明确的，清楚的
+8	dine	v.	就餐		8	shaft	n.	杆状物，轴
+9	graze	vi.	（牲畜）吃草；放牧		9	elapse	vi.	（时间）逝去，过去
+10	sculpture	n.	雕塑，雕刻品		10	provoke	vt.	激怒，惹起
+11	apprehension	n.	"担心,害怕"		11	majesty	n.	雄伟，威严；最高权威
+12	instrumental	a.	有帮助的，可作为手段的		12	spectacular	a.	引人入胜的，壮观的
+13	embark	v.	（使）上船（或飞机），（使）着手，（使）开始		13	garbage	n.	垃圾，废物
+14	rust	n.	锈，生锈		14	amplify	vt.	放大；扩大；增强
+15	suppress	v.	镇压，抑制		15	fleet	n./a.	（尤指有固定活动地区的）舰队，船队/快速的，敏捷的
+16	intuition	n.	直觉，直觉知识，直觉感知的事		16	patent	n./v.	专利/取得…的专利权，申请专利
+17	feeble	a.	微弱的，衰弱的		17	conference	n.	"会议，协商会,讨论会"
+18	exception	n.	例外		18	periodic	a.	周期的，定期的
+19	abolish	vt.	废除，取消		19	gasp	v.	气喘，急促地喘气
+20	elicit	vt.	得出，引出		20	masterpiece	n.	杰作，名著
+21	elite	n.	精英，中坚分子		21	stimulus	n.	刺激，刺激物
+22	absurd	a.	荒谬的，可笑的		22	blaze	v./n.	"燃烧,照耀/火焰,光辉"
+23	timely	a.	及时的，适时的		23	stern	a.	苛刻的，严格的，严厉的
+24	ease	n./vt.	安逸，悠闲		24	biography	n.	传记
+25	childish	a.	孩子（气）的；幼稚的		25	stir	v.	激起，引起，搅动
+26	summon	v.	召唤，传唤；召集		26	blunder	v./n.	跌跌撞撞地走，犯大错大错
+27	intrinsic	a.	固有的，内在的		27	disposition	n.	性情，倾向
+28	regime	n.	政权，政体；政治制度		28	comparable	a.	可比的，类比的
+29	curb	vt./n.	限制，约束/路边		29	slaughter	n./v.	大屠杀，屠宰牲畜
+30	norm	n.	准则，规范		30	quantify	vt.	量化，确定数量
+31	bracket	n./vt.	"括弧,托架/用托架固定"		31	integral	a.	整体的，构成整体所需要的
+32	eventually	ad.	终于		32	wither	v.	枯萎，凋谢
+33	global	a.	全球性的		33	correlate	vt.	使相互关联，使相互影响
+34	hinder	vt.	阻碍，妨碍		34	picnic	n.	野餐
+35	tract	n.	广阔的地面，大片土地		35	fragile	a.	易碎的，脆的，脆弱的
+36	diffuse	v./a.	扩散，散播/散开的，弥漫的		36	regardless	a.	不管，不顾，不注意
+37	persuade	vt.	说服，劝说		37	librarian	n.	图书管理员
+38	solidarity	n.	团结，团结一致		38	parade	n.	游行
+39	monopoly	n.	垄断，独占		39	heighten	vt.	提高，升高；加深
+40	likelihood	n.	可能，可能性		40	pause	n./v.	暂停，终止，停顿
+								
+								
+词汇6000 测试29					词汇6000 测试30			
+								
+1	cope	v.	（善于）应付，（善于）处理		1	confer	v.	"颁给，赋予,协商"
+2	triple	n./a.	三倍数（的）		2	bud	n./v.	"芽,苞/发芽"
+3	spiral	a.	螺旋形的，盘旋的		3	dome	n.	圆屋顶
+4	prophet	n.	先知，预言者，提倡者		4	dilute	vt.	稀释，淡化
+5	latent	a.	潜伏的，隐藏的		5	commodity	n.	商品，日用品
+6	cripple	vt.	削弱，使残废		6	discrepancy	n.	相差，差异，矛盾
+7	vulgar	a.	粗鲁的，庸俗的；下流的		7	gossip	n.	社会新闻，小道传闻
+8	vicinity	n.	附近，接近		8	signify	v.	表示，意味
+9	project	n./vi.	"计划,方案/投射,发射（导弹等）"		9	glare	n./v.	眩目的光/闪耀
+10	apt	a.	恰当的，贴切的；易于…的		10	diminish	v.	（使）减少，（使）变小
+11	susceptible	a.	易受影响；敏感的，过敏的		11	couch	n./vt.	长椅，长沙发/（用语言）表达
+12	revolve	v.	（使）旋转		12	census	n.	人口调查，人口普查
+13	emission	n.	散发，发射		13	attendant	n./a.	侍者，护理人员/伴随的
+14	cordial	a.	友好的，热情而真诚的		14	sensation	n.	"感觉,知觉"
+15	concise	a.	简洁的，简明的		15	mend	vt.	修补，改进
+16	crown	n./v.	王冠，花冠，顶部/加冕，褒奖		16	span	n.	跨度，一段时间
+17	insurance	n.	保险，保险费，保险单		17	hail	n.	冰雹
+18	underlying	a.	基础的；在下面的		18	enrich	vt.	加料于（实物），使…富足，使肥沃
+19	finite	a.	有限制的		19	forthcoming	a.	即将来临的
+20	dock	n.	码头，船坞		20	bruise	n./v.	"瘀伤,擦伤/打伤，撞伤"
+21	federation	n.	联盟，同盟，联邦		21	tuck	v.	把...塞进（一个狭小的容器或空洞等）
+22	eclipse	n./vt.	日食，月食/盖过，使失色；遮蔽		22	discern	vt.	看出，察觉到
+23	scrutiny	n.	详细审查		23	administer	vt.	管理
+24	opaque	a.	不透明的，晦涩难懂的		24	inaugurate	v.	创新，开辟；使就职
+25	poster	n.	海报，招贴		25	tease	v.	取笑，逗恼，奚落
+26	exclusive	a.	单独的，唯一的，排外的		26	slim	a.	纤细的，苗条的
+27	nominate	vt.	提名，任命		27	grope	vi.	摸索，探索
+28	zone	n.	区域，地带		28	orientation	n.	定向，介绍性指导
+29	essence	n.	本质，要素；精髓，精华		29	revenue	n.	（营业）收入，税收
+30	shrewd	a.	精明的		30	endanger	vt.	危及，危害
+31	personalily	n.	个性，性格，品格		31	augment	vt.	增加，增大
+32	orthodox	a.	正统的，传统的		32	differentiate	v.	"区分,区别"
+33	process	n./vt.	过程/处理，加工		33	smash	n./v.	打碎，粉碎
+34	corrode	v.	（受）腐蚀，（受）侵蚀		34	veto	v.	否决，禁止
+35	bachelor	n.	学士/单身汉		35	expend	vt.	花费，用光（精力，时间，体力等）
+36	faulty	a.	有过失的，有缺点的，不完美的		36	expedition	n.	远征，探险队
+37	formidable	a.	令人敬畏的，可怕的		37	indignant	a.	（因错事或不公正的事而）愤怒的，愤慨的
+38	automaton	n.	机器人		38	rejoice	v.	(使）欣喜，（使）高兴
+39	adjacent	a.	毗连的，邻近的		39	reckon	vt.	约略地计算；估计，猜想
+40	dirt	n.	泥土，污垢		40	buzz	n.	嗡嗡声
+								
+								
+词汇6000 测试31								
+								
+1	peer	v./n.	凝视，仔细看/同辈，同等的人					
+2	sparkle	n./v.	(发)火花，使闪耀					
+3	ultraviolet	a.	紫外线的					
+4	disregard	vt./n.	不理会，漠视					
+5	precipitate	vt.	促成，加速					
+6	adjust	vt.	调整；使适于					
+7	damn	vt.	谴责，指责					
+8	necessitate	v.	使成为必要，需要					
+9	confidential	a.	秘密的，机密的					
+10	baffle	vt.	"使困难,使为难"					
+11	subtle	a.	微妙的，细微的					
+12	intellect	n.	智力，理解力					
+13	ballet	n.	芭蕾舞					
+14	arc	n.	弧形，拱形					
+15	poke	v.	戳，捅					
+16	proficient	a.	熟练的，精通的					
+17	impress	vt.	印，盖印；给...以深刻印象					
+18	obstruct	vt.	阻塞（道路，通道等）；妨碍，阻挠					
+19	plaster	n./v.	灰泥，石膏/抹泥，涂					
+20	rip	vt.	撕，撕裂					
+21	predecessor	n.	前辈，前任					
+22	climax	n.	高潮；顶点					
+23	tendency	n.	趋势，倾向					
+24	habitual	a.	习惯的					
+25	edge	n.	边缘					
+26	denote	vt.	指示，表示					
+27	minimize	v.	最小化，使减到最小					
+28	fellowship	n.	奖学金，研究员基金；同伙关系					
+29	stall	n./v.	货摊，畜栏，厩/使停转，使停止					
+30	solo	n./a.	独奏曲/单独的					
+31	phenomena	n.	现象					
+32	embed	vt.	插入，镶嵌					
+33	sentence	n./vt.	"宣判,判决"					
+34	petty	a.	小的，不重要的					
+35	symposium	n.	讨论会，座谈会					
+36	vegetarian	n.	素食者					
+37	hug	n./v.	拥抱					
+38	uphold	v.	维护，支持（决定等）					
+39	kit	n.	"工具包，工具箱,成套工具"					
+40	diploma	n.	文凭，毕业证书					
