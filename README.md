@@ -14,7 +14,7 @@
    https://www.google.com/
    1
    小明
-   %USERPROFILE%/
+   %USERPROFILE%
    $HOME/
    1
    ```

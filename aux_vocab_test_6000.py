@@ -32,6 +32,7 @@ def normalize_string(s):
     cleaned_s = re.sub(r'[^\w\s]', '', normalized_s)
     return cleaned_s
 
+
 def compare_strings(str1, str2):
     normalized_str1 = normalize_string(str1)
     normalized_str2 = normalize_string(str2)
@@ -44,6 +45,8 @@ def answer(count: int, auto_disabled: bool, default_choice: int, permissive_enab
     word = "***"
     try:
         word = driver.find_element(By.XPATH, f"/html/body/div[1]/form/div[13]/div[4]/fieldset/div[{div_num}]/div[1]/div").text
+        word_locator = locate_with(By.CLASS_NAME, "topichtml").above({By.XPATH: f"/html/body/div[1]/form/div[13]/div[4]/fieldset/div[{div_num}]/div[2]/div[1]/div"})
+        word = driver.find_element(word_locator).text
     except common.exceptions.NoSuchElementException:
         print("\33[7mError! wait for confirm...\33[0m")
         os.system(pausing)
@@ -196,7 +199,6 @@ def main():
 
     driver.find_element(By.XPATH, '//*[@id="ctlNext"]').click()  # submit the test
 
-
     print("-------------------------------------------------")
     if len(wrong) != 0:
         w_num = 0
@@ -210,7 +212,10 @@ def main():
     print("Saving Screenshots...wait for 3 seconds")
     try:
         time.sleep(3)
-        driver.save_screenshot(fr"{dest}\{test_id}.png")
+        if system == "nt":
+            driver.save_screenshot(fr"{dest}\{test_id}.png")
+        elif system == "posix":
+            driver.save_screenshot(fr"{dest}/{test_id}.png")
     except:
         print("\033[1;4;31;40mCouldn't capture the screenshot, DO IT BY YOURSELF!!!\033[0m")
     else:
@@ -221,7 +226,15 @@ def main():
     time.sleep(2)
     os.system(pausing)
     driver.quit()
+    score = driver.find_element(By.CLASS_NAME, "score-font-style").text
+    return int(score)
 
 
 if __name__ == '__main__':
+    # while True:
+    #     s = main()
+    #     print(s)
+    #     if s == 80:
+    #         break
+    #     os.system(clearScreen)
     main()
